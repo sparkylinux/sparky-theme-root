@@ -1,7 +1,7 @@
-Sparky6 Root's Theme
-SparkyLinux 6.x theme's configuration files for applications work with the root user privileges. The package is recommended (not essencial) for Sparky JWM, LXQt, Openbox and other window managers.
+Sparky Root's Theme Noir
+SparkyLinux Noir theme's configuration files for applications work with the root user privileges. The package is recommended (not essencial) for Sparky JWM, LXQt, Openbox and other window managers.
 
-Copyright (C) 2019-2020 Paweł Pijanowski
+Copyright (C) 2020 Paweł Pijanowski
 License: GPLv3
 
 This program is free software: you can redistribute it and/or modify
@@ -19,16 +19,16 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Dependencies:
 -------------
-sparky6-theme
-tela-icon-theme
+arc-darkest-suru-icon-theme
+arc-darkest-gtk-theme
 
 Conflicts:
 -------------
-sparky-theme-root-noir
+sparky-theme-root
 
 Replaces:
 -------------
-sparky-theme-root-noir
+sparky-theme-root
 
 Install:
 -------------

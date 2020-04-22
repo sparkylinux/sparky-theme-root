@@ -1,7 +1,7 @@
 Sparky Root's Theme
 SparkyLinux 4/5/6 theme's configuration files for applications work with the root user privileges. The package is recommended (not essencial) for Sparky JWM, LXQt, Openbox and other window managers.
 
-Copyright (C) 2015-2019 Paweł Pijanowski
+Copyright (C) 2015-2020 Paweł Pijanowski
 License: GPLv3
 
 This program is free software: you can redistribute it and/or modify
